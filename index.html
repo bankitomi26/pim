@@ -57,8 +57,8 @@
   <section class="py-5">
     <div class="container">
       <h1>The library</h1>
-      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
+      <p class="lead"></p>
+      <p>The library after death is based on an unimaginable structure of human thinking. This library has no place in the organization of any of the institutions. The eternal library is not tied to any age, so its books cannot be read. So the library does not exist, but for those who read this article it may become existing.</p>
     </div>
   </section>
 

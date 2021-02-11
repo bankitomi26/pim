@@ -32,17 +32,17 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">The Library
+            <a class="nav-link" href="https://libraryofbabel.info/">The Library
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="#">User Policy
+            <a class="nav-link" href="https://bankitomi26.wixsite.com/bankifest/blog">User Policy
              <span class="sr-only">(current)</span>
            </a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="#">Theory
+            <a class="nav-link" href="">Theory
            <span class="sr-only">(current)</span>
             </a>
           </li>

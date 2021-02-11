@@ -80,8 +80,9 @@
   <section class="py-5">
     <div class="container">
       <h1>Theory</h1>
-      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
+      <p class="lead">The relationship between the reader and the text is influenced by the author himself. The role of the author is diminished in the case of the post-mortem library, which also means the death of the author.</p>
+      <p>Here it is the reader who can revive the tragedy of this passing. But this requires a reinterpretation of the author’s text that cannot be done with the tools of fiction. It is only through pictorial philosophical tools that the author becomes livable. So, there is a need for hermeneutics here with pictorial anthropological explanations.For example, if we want to read Christian Morgenstern’s poem The Shoes, we must first understand the postmodern view of space (which in this case we can do at this link).
+      </p>
     </div>
   </section>
 

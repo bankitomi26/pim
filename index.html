@@ -63,7 +63,7 @@
   </section>
 
   <!-- Image element - set the background image for the header in the line below -->
-  <div class="py-5 bg-image-full" style="background-image: url(https://photos.app.goo.gl/qMMKXmbywAGc5ZbL9);">
+  <div class="py-5 bg-image-full" style="banki_tamas_ elixir of long life_2020.jpg">
     <!-- Put anything you want here! There is just a spacer below for demo purposes! -->
     <div style="height: 200px;"></div>
   </div>

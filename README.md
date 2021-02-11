@@ -32,7 +32,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="https://libraryofbabel.info/">The Library
+            <a class="nav-link" href="https://libraryofbabel.info/">The library
               <span class="sr-only">(current)</span>
             </a>
           </li>
@@ -73,7 +73,7 @@
    <!-- Content section -->
   <section class="py-5">
     <div class="container">
-      <h1>User Policy</h1>
+      <h1>User policy</h1>
       <p class="lead"></p>
       <p>
         1. The user can never be a historian of his own age, because that would confuse his opposition between the beings and mean the end of history.</p>

@@ -9,6 +9,8 @@
   <meta name="Bánki Tamás" content="">
 
   <title> Post Mortem Library</title>
+  <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/img/Gerhard Richter  Aunt Marianne [Tante Marianne]  1965 (CR 87) Yageo Foundation, Taiwan © Gerhard Richter.jpg" />
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

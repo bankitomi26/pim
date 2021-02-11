@@ -35,10 +35,14 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">User Policy</a>
+            <a class="nav-link" href="#">User Policy
+             <span class="sr-only">(current)</span>
+           </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Theory</a>
+            <a class="nav-link" href="#">Theory
+           <span class="sr-only">(current)</span>
+            </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">References</a>

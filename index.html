@@ -63,10 +63,7 @@
     </div>
   </section>
 
-  <!-- Image element - set the background image for the header in the line below -->
-  <div <img class="img-fluid d-block mx-auto" src="3 fejezet2.png" alt=""> </div>
-
-  <!-- Content section -->
+   <!-- Content section -->
   <section class="py-5">
     <div class="container">
       <h1>User Policy</h1>
@@ -82,7 +79,7 @@
     <div class="container">
       <h1>Theory</h1>
       <p class="lead"></p>
-      <p>The relationship between the reader and the text is influenced by the author himself. The role of the author is diminished in the case of the post-mortem library, which also means the death of the author. Here it is the reader who can revive the tragedy of this passing. But this requires a reinterpretation of the author’s text that cannot be done with the tools of fiction. It is only through pictorial philosophical tools that the author becomes livable. So, there is a need for hermeneutics here with pictorial anthropological explanations.For example, if we want to read Christian Morgenstern’s poem The Shoes, we must first understand the postmodern view of space (which in this case we can do at this link).
+      <p>The relationship between the reader and the text is influenced by the author himself. The role of the author is diminished in the case of the post-mortem library, which also means the death of the author. Here it is the reader who can revive the tragedy of this passing. But this requires a reinterpretation of the author’s text that cannot be done with the tools of fiction. It is only through pictorial philosophical tools that the author becomes livable. So, there is a need for hermeneutics here with pictorial anthropological explanations.For example, if we want to read Christian Morgenstern’s poem The Shoes, we must first understand the postmodern view of space (which in this case we can do at this link: <"https://bankitomi26.github.io/wwgrd/">).
       </p>
     </div>
   </section>

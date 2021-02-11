@@ -37,7 +37,7 @@
             </a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="https://bankitomi26.wixsite.com/bankifest/blog">User Policy
+            <a class="nav-link" href="https://bankitomi26.wixsite.com/bankifest">User Policy
              <span class="sr-only">(current)</span>
            </a>
           </li>

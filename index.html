@@ -10,7 +10,7 @@
 
   <title> Post Mortem Library</title>
   <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/img/Gerhard Richter  Aunt Marianne [Tante Marianne]  1965 (CR 87) Yageo Foundation, Taiwan © Gerhard Richter.jpg" />
+        <link rel="icon" type="image/x-icon" href="1599766862256.jpg" />
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

@@ -56,7 +56,7 @@
   <!-- Content section -->
   <section class="py-5">
     <div class="container">
-      <h1>Section Heading</h1>
+      <h1>The library</h1>
       <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
     </div>
@@ -71,7 +71,15 @@
   <!-- Content section -->
   <section class="py-5">
     <div class="container">
-      <h1>Section Heading</h1>
+      <h1>User Policy</h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
+    </div>
+  </section>
+  <!-- Content section -->
+  <section class="py-5">
+    <div class="container">
+      <h1>Theory</h1>
       <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
     </div>

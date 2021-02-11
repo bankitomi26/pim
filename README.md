@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="Bánki Tamás" content="">
 
-  <title>Full Width Pics - Post Mortem Library</title>
+  <title> Post Mortem Library</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

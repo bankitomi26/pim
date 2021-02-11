@@ -49,7 +49,7 @@
   </nav>
 
   <!-- Header - set the background image for the header in the line below -->
-  <div class="py-5 bg-image-full" style="https://photos.app.goo.gl/qMMKXmbywAGc5ZbL9" alt"">
+  <div class="py-5 bg-image-full" src="banki_tamas_ elixir of long life_2020.jpg" alt="">
     <img class="img-fluid d-block mx-auto" src="3 fejezet2.png" alt="">
   </header>
 

@@ -42,7 +42,7 @@
            </a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="">Theory
+            <a class="nav-link" href="https://7zezcbexaoiwd93imoy4ww-on.drv.tw/drive to web/Sorozatok Az Üdvtörténetből.html">Theory
            <span class="sr-only">(current)</span>
             </a>
           </li>

@@ -38,10 +38,10 @@
             <a class="nav-link" href="#">User Policy</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">The relationship between text and the reader</a>
+            <a class="nav-link" href="#">Theory</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">References for understanding</a>
+            <a class="nav-link" href="#">References</a>
           </li>
         </ul>
       </div>

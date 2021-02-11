@@ -1,61 +1,94 @@
-# [Start Bootstrap - Full Width Pics](https://startbootstrap.com/template/full-width-pics/)
+<!DOCTYPE html>
+<html lang="hu">
 
-[Full Width Pics](https://startbootstrap.com/template/full-width-pics/) is an HTML starter template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template features numerous full width background image content sections.
+<head>
 
-## Preview
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-[![Full Width Pics Preview](https://assets.startbootstrap.com/img/screenshots/templates/full-width-pics.png)](https://startbootstrap.github.io/startbootstrap-full-width-pics/)
+  <title>Full Width Pics - Start Bootstrap Template</title>
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-full-width-pics/)**
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-## Status
+  <!-- Custom styles for this template -->
+  <link href="css/full-width-pics.css" rel="stylesheet">
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-full-width-pics/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-full-width-pics.svg)](https://www.npmjs.com/package/startbootstrap-full-width-pics)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-full-width-pics.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-full-width-pics)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-full-width-pics/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-full-width-pics)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-full-width-pics/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-full-width-pics?type=dev)
+</head>
 
-## Download and Installation
+<body>
 
-To begin using this template, choose one of the following options to get started:
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Start Bootstrap</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/full-width-pics/)
-* Install via npm: `npm i startbootstrap-full-width-pics`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-full-width-pics.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-full-width-pics)
+  <!-- Header - set the background image for the header in the line below -->
+  <header class="py-5 bg-image-full" style="background-image: url('https://unsplash.it/1900/1080?image=1076');">
+    <img class="img-fluid d-block mx-auto" src="http://placehold.it/200x200&text=Logo" alt="">
+  </header>
 
-## Usage
+  <!-- Content section -->
+  <section class="py-5">
+    <div class="container">
+      <h1>Section Heading</h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
+    </div>
+  </section>
 
-### Basic Usage
+  <!-- Image element - set the background image for the header in the line below -->
+  <div class="py-5 bg-image-full" style="background-image: url('https://unsplash.it/1900/1080?image=1081');">
+    <!-- Put anything you want here! There is just a spacer below for demo purposes! -->
+    <div style="height: 200px;"></div>
+  </div>
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+  <!-- Content section -->
+  <section class="py-5">
+    <div class="container">
+      <h1>Section Heading</h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, suscipit, rerum quos facilis repellat architecto commodi officia atque nemo facere eum non illo voluptatem quae delectus odit vel itaque amet.</p>
+    </div>
+  </section>
 
-### Advanced Usage
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2021</p>
+    </div>
+    <!-- /.container -->
+  </footer>
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+</body>
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-full-width-pics/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/full-width-pics/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
+</html>

@@ -55,7 +55,6 @@
       </div>
     </div>
   </nav>
-
   <!-- Header - set the background image for the header in the line below -->
   <div img class="img-fluid d-block mx-auto" src=" alt="">
       <img class="img-fluid d-block mx-auto" src="3 fejezet2.png" alt="">

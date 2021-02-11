@@ -78,7 +78,7 @@
       <p>
         1. The user can never be a historian of his own age, because that would confuse his opposition between the beings and mean the end of history.</p>
    </p> 2. The user can stand out from the minority caused by himself only with sufficient self-education and art education. In this way, the user can move from existence to a greater degree of existence. Then you can destroy it all by destroying it and start building from scratch.</p>
-    </p>3. The user must create a time consciousness that finds its place in an autopoetic system.</p>
+    </p>3. The user must create a time consciousness that finds its place in an autopoietic system.</p>
     </div>
   </section>
   <!-- Content section -->

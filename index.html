@@ -46,8 +46,10 @@
            <span class="sr-only">(current)</span>
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">References</a>
+          <li class="nav-item active">
+            <a class="nav-link" href="https://bankitomi26.github.io/wwgrd/">References</a>
+           <span class="sr-only">(current)</span>
+            </a>
           </li>
         </ul>
       </div>

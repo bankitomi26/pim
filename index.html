@@ -56,7 +56,7 @@
     </div>
   </nav>
   <!-- Header - set the background image for the header in the line below -->
-  <div img class="img-fluid d-block mx-auto" src=" alt="">
+  <div class="py-5 bg-image-full" style="background-image: url('1.jpg');">
       <img class="img-fluid d-block mx-auto" src="3 fejezet2.png" alt="">
 
   </header>

@@ -87,7 +87,7 @@
     </div>
   </section>
 <!-- Image element - set the background image for the header in the line below -->
-  <div class="py-5 bg-image-full" style="background-image: url('1.jpg');">
+  <div class="py-5 bg-image-full" style="background-image: url('2.jpg');">
     <!-- Put anything you want here! There is just a spacer below for demo purposes! -->
     <div style="height: 200px;"></div>
   </div>

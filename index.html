@@ -86,6 +86,11 @@
     </p>3. The user must create a time consciousness that finds its place in an autopoietic system.</p>
     </div>
   </section>
+<!-- Image element - set the background image for the header in the line below -->
+  <div class="py-5 bg-image-full" style="background-image: url('1.jpg');">
+    <!-- Put anything you want here! There is just a spacer below for demo purposes! -->
+    <div style="height: 200px;"></div>
+  </div>
   <!-- Content section -->
   <section class="py-5">
     <div class="container">

@@ -56,7 +56,7 @@
     </div>
   </nav>
   <!-- Header - set the background image for the header in the line below -->
-  <div class="py-5 bg-image-full" style="background-image: url('1.jpg');">
+  <div class="py-5 bg-image-full" style="background-image: url('');">
       <img class="img-fluid d-block mx-auto" src="3 fejezet2.png" alt="">
 
   </header>
@@ -69,6 +69,11 @@
       <p>The library after death is based on an unimaginable structure of human thinking. This library has no place in the organization of any of the institutions. The eternal library is not tied to any age, so its books cannot be read. So the library does not exist, but for those who read this article it may become existing.</p>
     </div>
   </section>
+<!-- Image element - set the background image for the header in the line below -->
+  <div class="py-5 bg-image-full" style="background-image: url('1.jpg');">
+    <!-- Put anything you want here! There is just a spacer below for demo purposes! -->
+    <div style="height: 200px;"></div>
+  </div>
 
    <!-- Content section -->
   <section class="py-5">
